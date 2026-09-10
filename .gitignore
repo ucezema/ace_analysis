@@ -1,1 +1,4 @@
-'.RData\n.Rhistory\ndata/\noutputs/' 
+.RData
+.Rhistory
+data/
+outputs/ 
